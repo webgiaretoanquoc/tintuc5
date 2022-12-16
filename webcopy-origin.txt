@@ -1,0 +1,1304 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:regular%2C700%2Cregular%2C500|Dancing+Script:regular%2C400&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\s\dancingscript\v24\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc5.webtudong8giay.com%252Fbai-giang-le-an-tang-thay-gb-nguyen-khang-an%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc5.webtudong8giay.com%252Fbong-hong-cho-nguoi-hanh-khat-cho-vao-tim-hon-hay-ban-tay%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\login-17.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc5.webtudong8giay.com%252Fchiec-tu-lanh-chua-day-xac-em-be-va-biet-doi-san-trom-hai-nhi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\login-16.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc5.webtudong8giay.com%252Fdtc-phanxico-quy-uoc-montreal-la-guong-mau-cho-viec-cuu-lay-thien-nhien%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc5.webtudong8giay.com%252Fduc-hong-y-charles-maung-bo-chao-mung-duc-thanh-cha-vieng-tham-thai-lan-va-nhat-ban%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\login-12.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc5.webtudong8giay.com%252Fduc-tong-giuse-dang-le-cau-cho-cac-dang-linh-hon-chua-giesu-dang-bao-lanh-ve-nha-cha%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc5.webtudong8giay.com%252Fduc-tong-giuse-tham-muc-vu-va-ban-bi-tich-them-suc-tai-giao-xu-kim-dong%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\login-13.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc5.webtudong8giay.com%252Fduc-tong-giuse-tham-muc-vu-va-ban-bi-tich-them-suc-tai-giao-xu-kim-dong-2%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc5.webtudong8giay.com%252Fgiao-phan-bui-chu-tien-toi-dai-hoi-gioi-tre-giao-tinh-ha-noi-lan-thu-xvii%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc5.webtudong8giay.com%252Fgiao-xu-hai-nap-han-hoan-lanh-nhan-chua-thanh-than-de-loan-bao-tin-mung%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\login-20.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc5.webtudong8giay.com%252Fgiao-xu-hai-nap-han-hoan-lanh-nhan-chua-thanh-than-de-loan-bao-tin-mung-2%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\login-14.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc5.webtudong8giay.com%252Fgioi-thieu-tuyen-tap-hoa-bao-giao-duc-cho-tuoi-tho-bong-hoa-nho%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\login-18.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc5.webtudong8giay.com%252Fgioi-tre-giao-xu-phat-diem-cau-nguyen-taize-tai-vuon-thanh%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc5.webtudong8giay.com%252Fgioi-tre-va-tntt-xu-lang-van-cau-nguyen-taize-tai-vuon-thanh%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\login-15.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc5.webtudong8giay.com%252Fguong-chinh-truc-cua-tong-thong-cong-giao-nam-han%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc5.webtudong8giay.com%252Fle-duc-me-man-coi-hoi-thanh-cau-nguyen-voi-kinh-man-coi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\login-10.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc5.webtudong8giay.com%252Fmot-vai-cam-nghi-ve-tham-kich-39-nan-nhan-viet-nam-tai-vuong-quoc-anh%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc5.webtudong8giay.com%252Fphac-hoa-chan-dung-mot-vi-thanh-duc-hong-y-john-henry-newman%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc5.webtudong8giay.com%252Fsuy-niem-loan-bao-tin-mung-20-10-2019-chua-nhat-tuan-29-tn-khanh-nhat-truyen-giao%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\login-11.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc5.webtudong8giay.com%252Fthanh-le-ta-on-be-mac-tuan-tinh-tam-nam-linh-muc-doan-phat-diem-2019%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc5.webtudong8giay.com%252Fthong-bao-chuong-trinh-le-kinh-duc-me-sau-bi-tai-giao-xu-dong-dinh-2019%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\login-19.php
+Content Type: application/xhtml+xml
+
+Uri: https://tintuc5.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/11-2/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\11-2\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/author/admin/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\author\admin\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/author/admin/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/author/admin/page/2/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\author\admin\page\2\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/bai-giang-le-an-tang-thay-gb-nguyen-khang-an/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\bai-giang-le-an-tang-thay-gb-nguyen-khang-an\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/bai-giang-le-an-tang-thay-gb-nguyen-khang-an/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\bai-giang-le-an-tang-thay-gb-nguyen-khang-an\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/baovesusong/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\baovesusong\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/bg-header-mobile/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\bg-header-mobile\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/bggs/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\bggs\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/bg_date/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\bg_date\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/bn-header/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\bn-header\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/bong-hong-cho-nguoi-hanh-khat-cho-vao-tim-hon-hay-ban-tay/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\bong-hong-cho-nguoi-hanh-khat-cho-vao-tim-hon-hay-ban-tay\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/bong-hong-cho-nguoi-hanh-khat-cho-vao-tim-hon-hay-ban-tay/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\bong-hong-cho-nguoi-hanh-khat-cho-vao-tim-hon-hay-ban-tay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/box4t-bg/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\box4t-bg\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/category/giao-xu-phuc-nhac/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\giao-xu-phuc-nhac\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/category/giao-xu-phuc-nhac/cac-giao-ho/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\giao-xu-phuc-nhac\cac-giao-ho\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/category/giao-xu-phuc-nhac/cac-giao-ho/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\giao-xu-phuc-nhac\cac-giao-ho\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/category/giao-xu-phuc-nhac/cac-hoi-doan/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\giao-xu-phuc-nhac\cac-hoi-doan\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/category/giao-xu-phuc-nhac/cac-hoi-doan/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\giao-xu-phuc-nhac\cac-hoi-doan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/category/giao-xu-phuc-nhac/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\giao-xu-phuc-nhac\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/category/giao-xu-phuc-nhac/tin-tuc-giao-xu/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\giao-xu-phuc-nhac\tin-tuc-giao-xu\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/category/giao-xu-phuc-nhac/tin-tuc-giao-xu/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\giao-xu-phuc-nhac\tin-tuc-giao-xu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/category/hiep-thong/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\hiep-thong\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/category/hiep-thong/cam-ta/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\hiep-thong\cam-ta\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/category/hiep-thong/cam-ta/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\hiep-thong\cam-ta\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/category/hiep-thong/chuc-mung/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\hiep-thong\chuc-mung\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/category/hiep-thong/chuc-mung/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\hiep-thong\chuc-mung\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/category/hiep-thong/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\hiep-thong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/category/hiep-thong/phan-uu/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\hiep-thong\phan-uu\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/category/hiep-thong/phan-uu/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\hiep-thong\phan-uu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/category/hinh-anh/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\hinh-anh\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/category/hinh-anh/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\hinh-anh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/category/suy-niem/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\suy-niem\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/category/suy-niem/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\suy-niem\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/category/thieu-nhi-thanh-the/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\thieu-nhi-thanh-the\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/category/thieu-nhi-thanh-the/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\thieu-nhi-thanh-the\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/category/thieu-nhi-thanh-the/ky-nang-sinh-hoat/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\thieu-nhi-thanh-the\ky-nang-sinh-hoat\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/category/thieu-nhi-thanh-the/ky-nang-sinh-hoat/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\thieu-nhi-thanh-the\ky-nang-sinh-hoat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/category/thieu-nhi-thanh-the/sinh-hoat-thuong-nhat/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\thieu-nhi-thanh-the\sinh-hoat-thuong-nhat\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/category/thieu-nhi-thanh-the/sinh-hoat-thuong-nhat/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\thieu-nhi-thanh-the\sinh-hoat-thuong-nhat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/category/thieu-nhi-thanh-the/tai-lieu-tntt/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\thieu-nhi-thanh-the\tai-lieu-tntt\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/category/thieu-nhi-thanh-the/tai-lieu-tntt/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\thieu-nhi-thanh-the\tai-lieu-tntt\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/category/tin-tuc/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/category/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/category/tin-tuc/tin-giao-hat-giao-phan/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\tin-tuc\tin-giao-hat-giao-phan\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/category/tin-tuc/tin-giao-hat-giao-phan/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\tin-tuc\tin-giao-hat-giao-phan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/category/tin-tuc/tin-giao-hoi-viet-nam-hoan-vu/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\tin-tuc\tin-giao-hoi-viet-nam-hoan-vu\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/category/tin-tuc/tin-giao-hoi-viet-nam-hoan-vu/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\category\tin-tuc\tin-giao-hoi-viet-nam-hoan-vu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/chiec-tu-lanh-chua-day-xac-em-be-va-biet-doi-san-trom-hai-nhi/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\chiec-tu-lanh-chua-day-xac-em-be-va-biet-doi-san-trom-hai-nhi\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/chiec-tu-lanh-chua-day-xac-em-be-va-biet-doi-san-trom-hai-nhi/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\chiec-tu-lanh-chua-day-xac-em-be-va-biet-doi-san-trom-hai-nhi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/cropped-bn-header-jpg/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\cropped-bn-header-jpg\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/dcnnang/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\dcnnang\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/dtc-phanxico-quy-uoc-montreal-la-guong-mau-cho-viec-cuu-lay-thien-nhien/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\dtc-phanxico-quy-uoc-montreal-la-guong-mau-cho-viec-cuu-lay-thien-nhien\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/dtc-phanxico-quy-uoc-montreal-la-guong-mau-cho-viec-cuu-lay-thien-nhien/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\dtc-phanxico-quy-uoc-montreal-la-guong-mau-cho-viec-cuu-lay-thien-nhien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/duc-hong-y-charles-maung-bo-chao-mung-duc-thanh-cha-vieng-tham-thai-lan-va-nhat-ban/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\duc-hong-y-charles-maung-bo-chao-mung-duc-thanh-cha-vieng-tham-thai-lan-va-nhat-ban\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/duc-hong-y-charles-maung-bo-chao-mung-duc-thanh-cha-vieng-tham-thai-lan-va-nhat-ban/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\duc-hong-y-charles-maung-bo-chao-mung-duc-thanh-cha-vieng-tham-thai-lan-va-nhat-ban\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/duc-tong-giuse-dang-le-cau-cho-cac-dang-linh-hon-chua-giesu-dang-bao-lanh-ve-nha-cha/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\duc-tong-giuse-dang-le-cau-cho-cac-dang-linh-hon-chua-giesu-dang-bao-lanh-ve-nha-cha\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/duc-tong-giuse-dang-le-cau-cho-cac-dang-linh-hon-chua-giesu-dang-bao-lanh-ve-nha-cha/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\duc-tong-giuse-dang-le-cau-cho-cac-dang-linh-hon-chua-giesu-dang-bao-lanh-ve-nha-cha\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/duc-tong-giuse-tham-muc-vu-va-ban-bi-tich-them-suc-tai-giao-xu-kim-dong-2/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\duc-tong-giuse-tham-muc-vu-va-ban-bi-tich-them-suc-tai-giao-xu-kim-dong-2\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/duc-tong-giuse-tham-muc-vu-va-ban-bi-tich-them-suc-tai-giao-xu-kim-dong-2/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\duc-tong-giuse-tham-muc-vu-va-ban-bi-tich-them-suc-tai-giao-xu-kim-dong-2\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/duc-tong-giuse-tham-muc-vu-va-ban-bi-tich-them-suc-tai-giao-xu-kim-dong/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\duc-tong-giuse-tham-muc-vu-va-ban-bi-tich-them-suc-tai-giao-xu-kim-dong\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/duc-tong-giuse-tham-muc-vu-va-ban-bi-tich-them-suc-tai-giao-xu-kim-dong/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\duc-tong-giuse-tham-muc-vu-va-ban-bi-tich-them-suc-tai-giao-xu-kim-dong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/feed/?attachment_id=102
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\feed\index-11.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/feed/?attachment_id=161
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\feed\index-13.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/feed/?attachment_id=251
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\feed\index-14.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/feed/?attachment_id=259
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\feed\index-12.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/feed/?attachment_id=270
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\feed\index-10.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/feed/?attachment_id=44
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\feed\index-9.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/feed/?attachment_id=458
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\feed\index-8.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/feed/?attachment_id=461
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\feed\index-7.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/feed/?attachment_id=465
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\feed\index-5.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/feed/?attachment_id=470
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\feed\index-3.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/feed/?attachment_id=519
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/feed/?attachment_id=576
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\feed\index-2.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/feed/?attachment_id=581
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\feed\index-4.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/feed/?attachment_id=604
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\feed\index-6.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/giao-phan-bui-chu-tien-toi-dai-hoi-gioi-tre-giao-tinh-ha-noi-lan-thu-xvii/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\giao-phan-bui-chu-tien-toi-dai-hoi-gioi-tre-giao-tinh-ha-noi-lan-thu-xvii\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/giao-phan-bui-chu-tien-toi-dai-hoi-gioi-tre-giao-tinh-ha-noi-lan-thu-xvii/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\giao-phan-bui-chu-tien-toi-dai-hoi-gioi-tre-giao-tinh-ha-noi-lan-thu-xvii\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/giao-xu-hai-nap-han-hoan-lanh-nhan-chua-thanh-than-de-loan-bao-tin-mung-2/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\giao-xu-hai-nap-han-hoan-lanh-nhan-chua-thanh-than-de-loan-bao-tin-mung-2\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/giao-xu-hai-nap-han-hoan-lanh-nhan-chua-thanh-than-de-loan-bao-tin-mung-2/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\giao-xu-hai-nap-han-hoan-lanh-nhan-chua-thanh-than-de-loan-bao-tin-mung-2\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/giao-xu-hai-nap-han-hoan-lanh-nhan-chua-thanh-than-de-loan-bao-tin-mung/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\giao-xu-hai-nap-han-hoan-lanh-nhan-chua-thanh-than-de-loan-bao-tin-mung\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/giao-xu-hai-nap-han-hoan-lanh-nhan-chua-thanh-than-de-loan-bao-tin-mung/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\giao-xu-hai-nap-han-hoan-lanh-nhan-chua-thanh-than-de-loan-bao-tin-mung\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/giao-xu-phuc-nhac/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\giao-xu-phuc-nhac\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/gioi-thieu-tuyen-tap-hoa-bao-giao-duc-cho-tuoi-tho-bong-hoa-nho/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\gioi-thieu-tuyen-tap-hoa-bao-giao-duc-cho-tuoi-tho-bong-hoa-nho\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/gioi-thieu-tuyen-tap-hoa-bao-giao-duc-cho-tuoi-tho-bong-hoa-nho/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\gioi-thieu-tuyen-tap-hoa-bao-giao-duc-cho-tuoi-tho-bong-hoa-nho\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/gioi-thieu/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\gioi-thieu\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/gioi-tre-giao-xu-phat-diem-cau-nguyen-taize-tai-vuon-thanh/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\gioi-tre-giao-xu-phat-diem-cau-nguyen-taize-tai-vuon-thanh\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/gioi-tre-giao-xu-phat-diem-cau-nguyen-taize-tai-vuon-thanh/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\gioi-tre-giao-xu-phat-diem-cau-nguyen-taize-tai-vuon-thanh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/gioi-tre-va-tntt-xu-lang-van-cau-nguyen-taize-tai-vuon-thanh/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\gioi-tre-va-tntt-xu-lang-van-cau-nguyen-taize-tai-vuon-thanh\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/gioi-tre-va-tntt-xu-lang-van-cau-nguyen-taize-tai-vuon-thanh/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\gioi-tre-va-tntt-xu-lang-van-cau-nguyen-taize-tai-vuon-thanh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/gpphatdem-1/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\gpphatdem-1\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/guong-chinh-truc-cua-tong-thong-cong-giao-nam-han/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\guong-chinh-truc-cua-tong-thong-cong-giao-nam-han\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/guong-chinh-truc-cua-tong-thong-cong-giao-nam-han/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\guong-chinh-truc-cua-tong-thong-cong-giao-nam-han\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/le-duc-me-man-coi-hoi-thanh-cau-nguyen-voi-kinh-man-coi/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\le-duc-me-man-coi-hoi-thanh-cau-nguyen-voi-kinh-man-coi\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/le-duc-me-man-coi-hoi-thanh-cau-nguyen-voi-kinh-man-coi/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\le-duc-me-man-coi-hoi-thanh-cau-nguyen-voi-kinh-man-coi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/lich-su-giao-xu-phuc-nhac/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\lich-su-giao-xu-phuc-nhac\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/mot-vai-cam-nghi-ve-tham-kich-39-nan-nhan-viet-nam-tai-vuong-quoc-anh/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\mot-vai-cam-nghi-ve-tham-kich-39-nan-nhan-viet-nam-tai-vuong-quoc-anh\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/mot-vai-cam-nghi-ve-tham-kich-39-nan-nhan-viet-nam-tai-vuong-quoc-anh/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\mot-vai-cam-nghi-ve-tham-kich-39-nan-nhan-viet-nam-tai-vuong-quoc-anh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/nam2019/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\nam2019\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/noiket1/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\noiket1\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/phac-hoa-chan-dung-mot-vi-thanh-duc-hong-y-john-henry-newman/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\phac-hoa-chan-dung-mot-vi-thanh-duc-hong-y-john-henry-newman\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/phac-hoa-chan-dung-mot-vi-thanh-duc-hong-y-john-henry-newman/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\phac-hoa-chan-dung-mot-vi-thanh-duc-hong-y-john-henry-newman\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/suy-niem-loan-bao-tin-mung-20-10-2019-chua-nhat-tuan-29-tn-khanh-nhat-truyen-giao/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\suy-niem-loan-bao-tin-mung-20-10-2019-chua-nhat-tuan-29-tn-khanh-nhat-truyen-giao\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/suy-niem-loan-bao-tin-mung-20-10-2019-chua-nhat-tuan-29-tn-khanh-nhat-truyen-giao/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\suy-niem-loan-bao-tin-mung-20-10-2019-chua-nhat-tuan-29-tn-khanh-nhat-truyen-giao\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/suy-niem-tin-mung/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\suy-niem-tin-mung\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/thanh-le-ta-on-be-mac-tuan-tinh-tam-nam-linh-muc-doan-phat-diem-2019/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\thanh-le-ta-on-be-mac-tuan-tinh-tam-nam-linh-muc-doan-phat-diem-2019\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/thanh-le-ta-on-be-mac-tuan-tinh-tam-nam-linh-muc-doan-phat-diem-2019/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\thanh-le-ta-on-be-mac-tuan-tinh-tam-nam-linh-muc-doan-phat-diem-2019\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/thong-bao-chuong-trinh-le-kinh-duc-me-sau-bi-tai-giao-xu-dong-dinh-2019/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\thong-bao-chuong-trinh-le-kinh-duc-me-sau-bi-tai-giao-xu-dong-dinh-2019\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/thong-bao-chuong-trinh-le-kinh-duc-me-sau-bi-tai-giao-xu-dong-dinh-2019/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\thong-bao-chuong-trinh-le-kinh-duc-me-sau-bi-tai-giao-xu-dong-dinh-2019\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/trang-chu/feed/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\trang-chu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc5.webtudong8giay.com/transparent-pattern-png-8/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\transparent-pattern-png-8\index.htm
+Content Type: text/html
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/11-215x300.jpg
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\11-215x300.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/11.jpg
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\11.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/baovesusong.png
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\baovesusong.png
+Content Type: image/png
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/bg-header-mobile-300x60.jpg
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\bg-header-mobile-300x60.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/bg-header-mobile.jpg
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\bg-header-mobile.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/bggs.jpg
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\bggs.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/bg_date.gif
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\bg_date.gif
+Content Type: image/gif
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/bn-header-1024x160.jpg
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\bn-header-1024x160.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/bn-header-300x47.jpg
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\bn-header-300x47.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/bn-header-768x120.jpg
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\bn-header-768x120.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/bn-header.jpg
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\bn-header.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/box4T-bg.png
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\box4T-bg.png
+Content Type: image/png
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/cropped-bn-header-150x150.jpg
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\cropped-bn-header-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/cropped-bn-header-180x180.jpg
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\cropped-bn-header-180x180.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/cropped-bn-header-192x192.jpg
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\cropped-bn-header-192x192.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/cropped-bn-header-270x270.jpg
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\cropped-bn-header-270x270.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/cropped-bn-header-300x300.jpg
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\cropped-bn-header-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/cropped-bn-header-32x32.jpg
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\cropped-bn-header-32x32.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/cropped-bn-header.jpg
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\cropped-bn-header.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/dcnnang-205x300.jpg
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\dcnnang-205x300.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/dcnnang.jpg
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\dcnnang.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/giao-xu-phuc-nhac-300x81.png
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\giao-xu-phuc-nhac-300x81.png
+Content Type: image/png
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/giao-xu-phuc-nhac.png
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\giao-xu-phuc-nhac.png
+Content Type: image/png
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/gpphatdem-1-300x66.jpg
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\gpphatdem-1-300x66.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/gpphatdem-1.jpg
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\gpphatdem-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/nam2019-150x150.png
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\nam2019-150x150.png
+Content Type: image/png
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/nam2019.png
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\nam2019.png
+Content Type: image/png
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/noiket1.gif
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\noiket1.gif
+Content Type: image/gif
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/suy-niem-tin-mung.jpg
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\suy-niem-tin-mung.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/transparent-pattern-png-8-300x200.png
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\transparent-pattern-png-8-300x200.png
+Content Type: image/png
+
+Uri: https://tintuc5.webtudong8giay.com/wp-content/uploads/2019/11/transparent-pattern-png-8.png
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-content\uploads\2019\11\transparent-pattern-png-8.png
+Content Type: image/png
+
+Uri: https://tintuc5.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://tintuc5.webtudong8giay.com/wp-includes/js/comment-reply.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://tintuc5.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://tintuc5.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://tintuc5.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://tintuc5.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2F11-2%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-68
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2F11-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-69
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fbai-giang-le-an-tang-thay-gb-nguyen-khang-an%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fbai-giang-le-an-tang-thay-gb-nguyen-khang-an%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fbaovesusong%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-60
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fbaovesusong%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-61
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fbg-header-mobile%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-62
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fbg-header-mobile%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-63
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fbggs%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fbggs%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fbg_date%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-58
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fbg_date%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-59
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fbn-header%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-66
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fbn-header%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-67
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fbong-hong-cho-nguoi-hanh-khat-cho-vao-tim-hon-hay-ban-tay%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fbong-hong-cho-nguoi-hanh-khat-cho-vao-tim-hon-hay-ban-tay%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fbox4t-bg%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-64
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fbox4t-bg%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-65
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fchiec-tu-lanh-chua-day-xac-em-be-va-biet-doi-san-trom-hai-nhi%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fchiec-tu-lanh-chua-day-xac-em-be-va-biet-doi-san-trom-hai-nhi%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fcropped-bn-header-jpg%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-70
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fcropped-bn-header-jpg%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-71
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fdcnnang%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-72
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fdcnnang%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-73
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fdtc-phanxico-quy-uoc-montreal-la-guong-mau-cho-viec-cuu-lay-thien-nhien%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fdtc-phanxico-quy-uoc-montreal-la-guong-mau-cho-viec-cuu-lay-thien-nhien%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fduc-hong-y-charles-maung-bo-chao-mung-duc-thanh-cha-vieng-tham-thai-lan-va-nhat-ban%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fduc-hong-y-charles-maung-bo-chao-mung-duc-thanh-cha-vieng-tham-thai-lan-va-nhat-ban%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fduc-tong-giuse-dang-le-cau-cho-cac-dang-linh-hon-chua-giesu-dang-bao-lanh-ve-nha-cha%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fduc-tong-giuse-dang-le-cau-cho-cac-dang-linh-hon-chua-giesu-dang-bao-lanh-ve-nha-cha%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fduc-tong-giuse-tham-muc-vu-va-ban-bi-tich-them-suc-tai-giao-xu-kim-dong%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fduc-tong-giuse-tham-muc-vu-va-ban-bi-tich-them-suc-tai-giao-xu-kim-dong%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fduc-tong-giuse-tham-muc-vu-va-ban-bi-tich-them-suc-tai-giao-xu-kim-dong-2%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fduc-tong-giuse-tham-muc-vu-va-ban-bi-tich-them-suc-tai-giao-xu-kim-dong-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fgiao-phan-bui-chu-tien-toi-dai-hoi-gioi-tre-giao-tinh-ha-noi-lan-thu-xvii%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fgiao-phan-bui-chu-tien-toi-dai-hoi-gioi-tre-giao-tinh-ha-noi-lan-thu-xvii%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fgiao-xu-hai-nap-han-hoan-lanh-nhan-chua-thanh-than-de-loan-bao-tin-mung%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fgiao-xu-hai-nap-han-hoan-lanh-nhan-chua-thanh-than-de-loan-bao-tin-mung%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fgiao-xu-hai-nap-han-hoan-lanh-nhan-chua-thanh-than-de-loan-bao-tin-mung-2%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fgiao-xu-hai-nap-han-hoan-lanh-nhan-chua-thanh-than-de-loan-bao-tin-mung-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fgiao-xu-phuc-nhac%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fgiao-xu-phuc-nhac%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fgioi-thieu%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fgioi-thieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fgioi-thieu-tuyen-tap-hoa-bao-giao-duc-cho-tuoi-tho-bong-hoa-nho%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fgioi-thieu-tuyen-tap-hoa-bao-giao-duc-cho-tuoi-tho-bong-hoa-nho%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fgioi-tre-giao-xu-phat-diem-cau-nguyen-taize-tai-vuon-thanh%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fgioi-tre-giao-xu-phat-diem-cau-nguyen-taize-tai-vuon-thanh%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fgioi-tre-va-tntt-xu-lang-van-cau-nguyen-taize-tai-vuon-thanh%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fgioi-tre-va-tntt-xu-lang-van-cau-nguyen-taize-tai-vuon-thanh%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fgpphatdem-1%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-74
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fgpphatdem-1%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-75
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fguong-chinh-truc-cua-tong-thong-cong-giao-nam-han%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fguong-chinh-truc-cua-tong-thong-cong-giao-nam-han%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fle-duc-me-man-coi-hoi-thanh-cau-nguyen-voi-kinh-man-coi%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fle-duc-me-man-coi-hoi-thanh-cau-nguyen-voi-kinh-man-coi%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Flich-su-giao-xu-phuc-nhac%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Flich-su-giao-xu-phuc-nhac%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fmot-vai-cam-nghi-ve-tham-kich-39-nan-nhan-viet-nam-tai-vuong-quoc-anh%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fmot-vai-cam-nghi-ve-tham-kich-39-nan-nhan-viet-nam-tai-vuong-quoc-anh%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fnam2019%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-76
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fnam2019%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-77
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fnoiket1%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-56
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fnoiket1%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-57
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fphac-hoa-chan-dung-mot-vi-thanh-duc-hong-y-john-henry-newman%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fphac-hoa-chan-dung-mot-vi-thanh-duc-hong-y-john-henry-newman%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fsuy-niem-loan-bao-tin-mung-20-10-2019-chua-nhat-tuan-29-tn-khanh-nhat-truyen-giao%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fsuy-niem-loan-bao-tin-mung-20-10-2019-chua-nhat-tuan-29-tn-khanh-nhat-truyen-giao%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fsuy-niem-tin-mung%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-52
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fsuy-niem-tin-mung%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-53
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fthanh-le-ta-on-be-mac-tuan-tinh-tam-nam-linh-muc-doan-phat-diem-2019%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fthanh-le-ta-on-be-mac-tuan-tinh-tam-nam-linh-muc-doan-phat-diem-2019%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fthong-bao-chuong-trinh-le-kinh-duc-me-sau-bi-tai-giao-xu-dong-dinh-2019%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Fthong-bao-chuong-trinh-le-kinh-duc-me-sau-bi-tai-giao-xu-dong-dinh-2019%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Ftransparent-pattern-png-8%2F
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-54
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc5.webtudong8giay.com%2Ftransparent-pattern-png-8%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\oembed\1.0\embed-55
+Content Type: text/xml
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/categories/10
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\categories\10
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/categories/11
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\categories\11
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/categories/12
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\categories\12
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/categories/14
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\categories\14
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/categories/15
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\categories\15
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/categories/16
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\categories\16
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/categories/17
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\categories\17
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/categories/18
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\categories\18
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/categories/19
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\categories\19
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/categories/3
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\categories\3
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/categories/4
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\categories\4
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/categories/5
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\categories\5
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/categories/6
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\categories\6
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/categories/7
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\categories\7
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/categories/8
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\categories\8
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/categories/9
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\categories\9
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/media/102
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\media\102
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/media/161
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\media\161
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/media/251
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\media\251
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/media/259
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\media\259
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/media/270
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\media\270
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/media/44
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\media\44
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/media/458
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\media\458
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/media/461
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\media\461
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/media/465
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\media\465
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/media/470
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\media\470
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/media/519
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\media\519
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/media/576
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\media\576
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/media/581
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\media\581
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/media/604
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\media\604
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/media/711
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\media\711
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/pages/6
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\pages\6
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/pages/8
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\pages\8
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/posts/402
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\posts\402
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/posts/407
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\posts\407
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/posts/411
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\posts\411
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/posts/415
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\posts\415
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/posts/419
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\posts\419
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/posts/423
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\posts\423
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/posts/427
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\posts\427
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/posts/435
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\posts\435
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/posts/475
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\posts\475
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/posts/488
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\posts\488
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/posts/492
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\posts\492
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/posts/497
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\posts\497
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/posts/59
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\posts\59
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/posts/62
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\posts\62
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/posts/65
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\posts\65
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/posts/68
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\posts\68
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/posts/71
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\posts\71
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/posts/75
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\posts\75
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/posts/78
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\posts\78
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/posts/81
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\posts\81
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/posts/84
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\posts\84
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://tintuc5.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\tintuc5.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
